@@ -12,6 +12,8 @@
   <img align="center" alt="Carneirao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carneirao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carneirao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carneirao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="Carneirao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
 </div>
-![Snake animation](https://github.com/brunogacarneiro/brunogacarneiro/blob/output/github-contribution-grid-snake.svg)
+    
+       ![Snake animation](https://github.com/brunogacarneiro/brunogacarneiro/blob/output/github-contribution-grid-snake.svg)
+
